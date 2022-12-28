@@ -90,5 +90,5 @@ async function verify (message) {
     csvfuncs.grantAccess(user.code, message.author.id, message);
 }   
 
-//Token needed in config.json
+// Token from .env
 bot.login(token);
