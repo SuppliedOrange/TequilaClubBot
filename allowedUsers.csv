@@ -1,0 +1,11 @@
+name,class,bn,club,email,discordid,roletogrant,additional,code,confirmation
+organizers,-,-,-,-,-,-,-,-,🚫
+<name>,<class/section>,<bn number or school id>,<sector>,<email>,<their discord id>,<the id of the role they're supposed to recieve>,<additional comments>,<verification code>,🚫
+Test,12/A,BN/4089,gaming,someone@gmail.com,-,1042425488527851570,example data,abc123,🚫
+heads,-,-,-,-,-,-,-,-,🚫
+<name>,<class/section>,<bn number or school id>,<sector>,<email>,<their discord id>,<the id of the role they're supposed to recieve>,<additional comments>,<verification code>,🚫
+players,-,-,-,-,-,-,-,-,🚫
+<name>,<class/section>,<bn number or school id>,<sector>,<email>,<their discord id>,<the id of the role they're supposed to recieve>,<additional comments>,<verification code>,✅
+<name>,<class/section>,<bn number or school id>,<sector>,<email>,<their discord id>,<the id of the role they're supposed to recieve>,<additional comments>,<verification code>,❔
+<name>,<class/section>,<bn number or school id>,<sector>,<email>,<their discord id>,<the id of the role they're supposed to recieve>,<additional comments>,<verification code>,❌
+Test2,12/C,BN/1921,VALORANT tournament,someoneelse@gmail.com,-,1042425488527851570,also example data,19182,🚫
