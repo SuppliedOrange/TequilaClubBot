@@ -4,7 +4,7 @@
   "description": "mmmm",
   "main": "app.js",
   "dependencies": {
-    "@discordjs/opus": "^0.7.0",
+    "@discordjs/opus": "^0.8.0",
     "@discordjs/voice": "^0.8.0",
     "asynckit": "^0.4.0",
     "callsites": "^3.1.0",
