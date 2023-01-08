@@ -4,7 +4,7 @@ exports.run = async (bot, message, args) => {
     const justfuncs = require("../justfuncs")
 
     let argumentGuideEmbed = await justfuncs.popupEmbed({
-        title: "hi i would like one cup of fucking arguments please.",
+        title: "hi i would like one cup of arguments please.",
         description: "Examples:```.unconfirm 4089```(This unconfirms BN/4089)"
     })
 
