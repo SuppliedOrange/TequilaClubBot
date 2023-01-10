@@ -11,7 +11,7 @@
     "combined-stream": "^1.0.8",
     "csv-stringify": "^6.2.1",
     "delayed-stream": "^1.0.0",
-    "discord-api-types": "^0.22.0",
+    "discord-api-types": "^0.37.24",
     "discord.js": "^13.1.0",
     "dot-prop": "^6.0.1",
     "dotenv": "^16.0.0",
