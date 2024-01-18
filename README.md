@@ -8,7 +8,7 @@ To start the bot:
 
 You'll need:
 
-``` Node.js or something ```
+``` Node.js and a discord bot token ```
 
 I want to:
 
